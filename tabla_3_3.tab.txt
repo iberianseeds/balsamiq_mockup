@@ -1,0 +1,10 @@
+Nivel	Sector	Dueño	Flags	Mocion
+NAC	ECO	PS	↑ 	para impulsar compromisos responsables sobre verti
+NAC	VAR	PP	↑ 	para invitar a todos los grupos municipales a los
+CyL	EDU	Cs	↓ 	para implementar proyectos de educación para esco
+CLM	VIV	UP	⇩ 	crear un “Observatorio de la vivienda”
+CAT	ACC	PP	⬆︎ 	para reducir las barreras arquitectónicas
+LAR	POL	UP	🔥	para garantizar el principio de aconfesionalidad r
+MAD	SAN	PP		para promocionar entre la población las ventajas
++++	POL	PS		para la recuperación de la Memoria Histórica, en
+BUR	CUL	PP		Para mejorar la protección y visibilidad de la

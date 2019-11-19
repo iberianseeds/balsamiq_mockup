@@ -1,0 +1,13 @@
+Origen	Estado	Fecha	Sector	Asunto
+Propia	Reservada	16/11/2019	POL	comparecencia Pte Gobierno
+Sugerida	Reservada	04/11/2019	MA	compensaciones catastrofe
+Propia	Enviada	27/11/2019	FIN	pago a CCAA
+Elevada	Enviada	23/11/2019	SAN	vacunacion infantil
+Sugerida	Enviada	01/10/2019	EDU	educacion concertada
+Propia	Enviada	13/09/2019	SOC	pagos Ley dependencia
+Sugerida	Enviada	21/11/2019	SEG	prision permanente revisable
+Propia	Enviada	03/10/2019	SEG	equiparacion salarial
+Elevada	Enviada	26/10/2019	FIN	tipo de IVA productos sanitarios
+Sugerida	Archivada	24/10/2019	INF	construccion carretera N-xxx
+Propia	Archivada	03/09/2019	INF	renovacion concesiones peajes
+Propia	Archivada	26/09/2019	ENE	precio electricidad

@@ -1,0 +1,40 @@
+<html>
+<head>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+	google.charts.load('current', {'packages':['corechart']});
+	google.charts.setOnLoadCallback(drawChart);
+
+	function drawChart() {
+	  var data = google.visualization.arrayToDataTable([
+		['Mes','Sanidad','Educación','Servicios Sociales'],
+		['Ene',140,159,161],
+		['Feb',140,173,138],
+		['Mar',148,134,128],
+		['Abr',161,144,122],
+		['May',120,126,126],
+		['Jun',166,174,146],
+		['Jul',133,127,162],
+		['Ago',178,129,124],
+		['Sep',156,142,148],
+		['Oct',128,131,175],
+		['Nov',144,153,131],
+		['Dic',134,133,166]
+  	]);
+
+	  var options = {
+		title: '2018 - Iniciativas presentadas (aytos)',
+		curveType: 'function',
+		legend: { position: 'bottom' }
+	  };
+
+	  var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+
+	  chart.draw(data, options);
+	}
+  </script>
+</head>
+<body>
+  <div id="curve_chart" style="width: 900px; height: 500px"></div>
+</body>
+</html>
